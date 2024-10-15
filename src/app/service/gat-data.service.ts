@@ -29,7 +29,7 @@ export class GatDataService {
     {
       id: 1,
       name: 'Fashion',
-      img: './images/categoriesimg/fashion.webp',
+      img: './public/images/categoriesimg/fashion.webp',
       code: 'fashion'
     },
     {

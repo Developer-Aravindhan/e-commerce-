@@ -29,7 +29,7 @@ export class GatDataService {
     {
       id: 1,
       name: 'Fashion',
-      img: '/dist/aravindhanshop/browser/images//categoriesimg/fashion.webp',
+      img: 'https://th.bing.com/th/id/R.70dffec16e697cf193c36ea32f24c838?rik=HOeRGNwu9Y%2b6eA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fwomen-hd-png-emma-stone-png-hd-emma-stone-png-900.png&ehk=ML97A2hNENkemNpqXin1I0dMsc2M5EE6KGzuTn6DFuY%3d&risl=&pid=ImgRaw&r=0',
       code: 'fashion'
     },
     {

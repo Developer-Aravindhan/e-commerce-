@@ -29,7 +29,7 @@ export class GatDataService {
     {
       id: 1,
       name: 'Fashion',
-      img: '/images/categoriesimg/fashion.webp',
+      img: 'https://static.thenounproject.com/png/1688135-200.png',
       code: 'fashion'
     },
     {

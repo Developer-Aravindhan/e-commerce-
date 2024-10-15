@@ -29,25 +29,25 @@ export class GatDataService {
     {
       id: 1,
       name: 'Fashion',
-      img: 'https://th.bing.com/th/id/R.70dffec16e697cf193c36ea32f24c838?rik=HOeRGNwu9Y%2b6eA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fwomen-hd-png-emma-stone-png-hd-emma-stone-png-900.png&ehk=ML97A2hNENkemNpqXin1I0dMsc2M5EE6KGzuTn6DFuY%3d&risl=&pid=ImgRaw&r=0',
+      img: '/images/categoriesimg/fashion.webp',
       code: 'fashion'
     },
     {
       id: 2,
       name: 'Home & Furniture',
-      img: '/dist/aravindhanshop/browser/images//categoriesimg/home.webp',
+      img: '/images/categoriesimg/home.webp',
       code: 'homeandfurniture'
     },
     {
       id: 3,
       name: 'Appliance',
-      img: '/dist/aravindhanshop/browser/images//categoriesimg/appliance.webp',
+      img: '/images/categoriesimg/appliance.webp',
       code: 'appliance'
     },
     {
       id: 4,
       name: 'Toys',
-      img: '/dist/aravindhanshop/browser/images//categoriesimg/toys.webp',
+      img: '/images/categoriesimg/toys.webp',
       code: 'toys'
     },
   ];
@@ -62,7 +62,7 @@ export class GatDataService {
       pdPrice: 11499,
       pdCategory: "appliance",
       pdSubCategory: "mobile",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/samasungmobile.webp"
+      pdImg: "/images/productimg/samasungmobile.webp"
     },
     {
       pdId: 8566,
@@ -71,7 +71,7 @@ export class GatDataService {
       pdPrice: 79900,
       pdCategory: "appliance",
       pdSubCategory: "mobile",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/appleiphone15.webp"
+      pdImg: "/images/productimg/appleiphone15.webp"
     },
     {
       pdId: 8567,
@@ -80,7 +80,7 @@ export class GatDataService {
       pdPrice: 7450,
       pdCategory: "appliance",
       pdSubCategory: "air cooler",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/aircooler.webp"
+      pdImg: "/images/productimg/aircooler.webp"
     },
 
     {
@@ -90,7 +90,7 @@ export class GatDataService {
       pdPrice: 74000,
       pdCategory: "appliance",
       pdSubCategory: "smart tv",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/smartvsony.webp"
+      pdImg: "/images/productimg/smartvsony.webp"
     },
     {
       pdId: 8569,
@@ -99,7 +99,7 @@ export class GatDataService {
       pdPrice: 44990,
       pdCategory: "appliance",
       pdSubCategory: "refrigerator",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/refrigeratorsamsung.webp"
+      pdImg: "/images/productimg/refrigeratorsamsung.webp"
     },
     {
       pdId: 8570,
@@ -108,7 +108,7 @@ export class GatDataService {
       pdPrice: 2199,
       pdCategory: "appliance",
       pdSubCategory: "mobile",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/nokiamobile.webp"
+      pdImg: "/images/productimg/nokiamobile.webp"
     },
     {
       pdId: 8571,
@@ -117,7 +117,7 @@ export class GatDataService {
       pdPrice: 200,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/men-fashion-2.webp",
+      pdImg: "/images/productimg/men-fashion-2.webp",
       pdSize: ["S", "M", "L", "XL"]
     },
     {
@@ -127,7 +127,7 @@ export class GatDataService {
       pdPrice: 500,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/men-fashion-3.webp",
+      pdImg: "/images/productimg/men-fashion-3.webp",
       pdSize: ["S", "M", "L", "XL"]
 
     },
@@ -138,7 +138,7 @@ export class GatDataService {
       pdPrice: 800,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/women-fashion-1.webp",
+      pdImg: "/images/productimg/women-fashion-1.webp",
       pdSize: ["S", "M", "L", "XL"]
     },
     {
@@ -148,7 +148,7 @@ export class GatDataService {
       pdPrice: 550,
       pdCategory: "fashion",
       pdSubCategory: "jeans",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/men-fashion-jeans-1.webp",
+      pdImg: "/images/productimg/men-fashion-jeans-1.webp",
       pdSize: [30, 32, 34]
     },
     {
@@ -158,7 +158,7 @@ export class GatDataService {
       pdPrice: 1500,
       pdCategory: "fashion",
       pdSubCategory: "jeans",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/women-fashion-jeans-1.webp",
+      pdImg: "/images/productimg/women-fashion-jeans-1.webp",
       pdSize: [26, 28, 30, 32, 34]
     },
     {
@@ -168,7 +168,7 @@ export class GatDataService {
       pdPrice: 1500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/hnf-cover-1.webp",
+      pdImg: "/images/productimg/hnf-cover-1.webp",
     },
     {
       pdId: 8577,
@@ -177,7 +177,7 @@ export class GatDataService {
       pdPrice: 2500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/hnf-curtain-2.webp",
+      pdImg: "/images/productimg/hnf-curtain-2.webp",
     },
     {
       pdId: 8578,
@@ -186,7 +186,7 @@ export class GatDataService {
       pdPrice: 2500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/hnf-cover-2.webp",
+      pdImg: "/images/productimg/hnf-cover-2.webp",
     },
     {
       pdId: 8579,
@@ -195,7 +195,7 @@ export class GatDataService {
       pdPrice: 15000,
       pdCategory: "homeandfurniture",
       pdSubCategory: "sofa",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/hnf-sofa-1.webp",
+      pdImg: "/images/productimg/hnf-sofa-1.webp",
     },
     {
       pdId: 8580,
@@ -204,7 +204,7 @@ export class GatDataService {
       pdPrice: 10000,
       pdCategory: "homeandfurniture",
       pdSubCategory: "table",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/hnf-table-1.webp",
+      pdImg: "/images/productimg/hnf-table-1.webp",
     },
     {
       pdId: 8581,
@@ -213,7 +213,7 @@ export class GatDataService {
       pdPrice: 300,
       pdCategory: "toys",
       pdSubCategory: "cars",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/toy-1.webp",
+      pdImg: "/images/productimg/toy-1.webp",
     },
     {
       pdId: 8582,
@@ -222,7 +222,7 @@ export class GatDataService {
       pdPrice: 25000,
       pdCategory: "toys",
       pdSubCategory: "cars",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/toy-2.webp",
+      pdImg: "/images/productimg/toy-2.webp",
     },
     {
       pdId: 8583,
@@ -231,7 +231,7 @@ export class GatDataService {
       pdPrice: 700,
       pdCategory: "toys",
       pdSubCategory: "puzzle",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/toy-3.webp",
+      pdImg: "/images/productimg/toy-3.webp",
     },
     {
       pdId: 8584,
@@ -240,7 +240,7 @@ export class GatDataService {
       pdPrice: 500,
       pdCategory: "toys",
       pdSubCategory: "toys",
-      pdImg: "/dist/aravindhanshop/browser/images//productimg/toy-4.webp",
+      pdImg: "/images/productimg/toy-4.webp",
     },
   ];
 

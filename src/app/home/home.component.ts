@@ -11,16 +11,16 @@ export class HomeComponent implements OnInit {
   bannerImage = [
     {
       id: 1,
-      img: './assets/images/banner/off.jpg'
+      img: 'off.jpg'
     },
     {
       id: 2,
-      img: './assets/images/banner/shop.jpg'
+      img: 'shop.jpg'
 
     },
     {
       id: 3,
-      img: './assets/images/banner/online.jpg'
+      img: 'online.jpg'
     }
   ]
   gatCategoriesData: any;
